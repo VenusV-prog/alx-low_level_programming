@@ -6,7 +6,7 @@
  * Return: should always be 0.
  */
 
-int main (void)
+int main(void)
 
 {
 	puts("\"Programming is like building a multilingual puzzle");
