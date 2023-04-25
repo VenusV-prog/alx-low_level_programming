@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints all numbers of base 16 in lowercase 
+ * main - Prints all numbers of base 16 in lowercase
  * that is numbers between 0 to 9 and letters between a to f.
  * Return: Always 0 (Success)
  */
